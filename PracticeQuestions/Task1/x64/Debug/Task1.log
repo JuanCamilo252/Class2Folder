@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\juanc\source\repos\Class2Folder\Class2Folder\PracticeQuestions\Task1\main.cpp(101,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\juanc\source\repos\Class2Folder\Class2Folder\PracticeQuestions\Task1\main.cpp(110,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\juanc\source\repos\Class2Folder\Class2Folder\PracticeQuestions\Task1\main.cpp(159,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\juanc\source\repos\Class2Folder\Class2Folder\PracticeQuestions\Task1\main.cpp(165,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Task1.vcxproj -> C:\Users\juanc\source\repos\Class2Folder\Class2Folder\PracticeQuestions\x64\Debug\Task1.exe

@@ -3,30 +3,53 @@
   "WorkspaceRootPath": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78D38A89-2687-4123-8901-B4DE2A93C5A5}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78D38A89-2687-4123-8901-B4DE2A93C5A5}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{36AA4AD8-9308-4418-96AA-4649B2770105}|Practive\\Practive.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\Practive\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36AA4AD8-9308-4418-96AA-4649B2770105}|Practive\\Practive.vcxproj|solutionrelative:Practive\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA4AD8-9308-4418-96AA-4649B2770105}|Practive\\Practive.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\Practive\\transition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36AA4AD8-9308-4418-96AA-4649B2770105}|Practive\\Practive.vcxproj|solutionrelative:Practive\\transition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "transition.h",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\Practive\\transition.h",
+              "RelativeDocumentMoniker": "Practive\\transition.h",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\Practive\\transition.h",
+              "RelativeToolTip": "Practive\\transition.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-17T01:39:41.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 191,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\HelloWorld\\main.cpp",
-              "RelativeDocumentMoniker": "HelloWorld\\main.cpp",
-              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\HelloWorld\\main.cpp",
-              "RelativeToolTip": "HelloWorld\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\Practive\\main.cpp",
+              "RelativeDocumentMoniker": "Practive\\main.cpp",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\FirstSolution\\Practive\\main.cpp",
+              "RelativeToolTip": "Practive\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-12T23:38:14.815Z",
+              "WhenOpened": "2025-07-17T01:25:01.045Z",
               "EditorCaption": ""
             }
           ]

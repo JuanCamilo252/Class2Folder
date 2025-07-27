@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|solutionrelative:Supermarket\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Costumer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|solutionrelative:Supermarket\\Costumer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Basket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|solutionrelative:Supermarket\\Basket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|solutionrelative:Supermarket\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09C60AB-3540-439A-B759-B3D3420B6DD7}|Supermarket\\Supermarket.vcxproj|solutionrelative:Supermarket\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\main.cpp",
+              "RelativeDocumentMoniker": "Supermarket\\main.cpp",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\main.cpp*",
+              "RelativeToolTip": "Supermarket\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T04:48:05.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.h",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Cart.h",
+              "RelativeDocumentMoniker": "Supermarket\\Cart.h",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Cart.h",
+              "RelativeToolTip": "Supermarket\\Cart.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T04:35:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basket.h",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Basket.h",
+              "RelativeDocumentMoniker": "Supermarket\\Basket.h",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Basket.h",
+              "RelativeToolTip": "Supermarket\\Basket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T04:29:57.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.h",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Product.h",
+              "RelativeDocumentMoniker": "Supermarket\\Product.h",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Product.h",
+              "RelativeToolTip": "Supermarket\\Product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T04:24:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Costumer.h",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Costumer.h",
+              "RelativeDocumentMoniker": "Supermarket\\Costumer.h",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Assigment1\\Supermarket\\Costumer.h",
+              "RelativeToolTip": "Supermarket\\Costumer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T04:14:35.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

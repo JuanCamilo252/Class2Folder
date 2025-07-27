@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A238F6B0-3695-4433-83CC-BA43A05E33E8}|Clases03\\Clases03.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A238F6B0-3695-4433-83CC-BA43A05E33E8}|Clases03\\Clases03.vcxproj|solutionrelative:Clases03\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A238F6B0-3695-4433-83CC-BA43A05E33E8}|Clases03\\Clases03.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A238F6B0-3695-4433-83CC-BA43A05E33E8}|Clases03\\Clases03.vcxproj|solutionrelative:Clases03\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C03186-CDC4-42D8-996E-87BB9E0DBBB2}|Clases02\\Clases02.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases02\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56C03186-CDC4-42D8-996E-87BB9E0DBBB2}|Clases02\\Clases02.vcxproj|solutionrelative:Clases02\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2C82F6-AC6F-4296-A0EA-9D716B823CBA}|Clases01\\Clases01.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases01\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA2C82F6-AC6F-4296-A0EA-9D716B823CBA}|Clases01\\Clases01.vcxproj|solutionrelative:Clases01\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A238F6B0-3695-4433-83CC-BA43A05E33E8}|Clases03\\Clases03.vcxproj|C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A238F6B0-3695-4433-83CC-BA43A05E33E8}|Clases03\\Clases03.vcxproj|solutionrelative:Clases03\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.h",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\BankAccount.h",
+              "RelativeDocumentMoniker": "Clases03\\BankAccount.h",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\BankAccount.h",
+              "RelativeToolTip": "Clases03\\BankAccount.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T03:22:53.608Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases01\\Player.h",
+              "RelativeDocumentMoniker": "Clases01\\Player.h",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases01\\Player.h",
+              "RelativeToolTip": "Clases01\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-26T21:26:31.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases02\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "Clases02\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases02\\Rectangle.cpp",
+              "RelativeToolTip": "Clases02\\Rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T21:26:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\main.cpp",
+              "RelativeDocumentMoniker": "Clases03\\main.cpp",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\main.cpp",
+              "RelativeToolTip": "Clases03\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T03:34:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cpp",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\BankAccount.cpp",
+              "RelativeDocumentMoniker": "Clases03\\BankAccount.cpp",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\Class2Folder\\Class2Folder\\Clases\\Clases03\\BankAccount.cpp",
+              "RelativeToolTip": "Clases03\\BankAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T03:29:44.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
